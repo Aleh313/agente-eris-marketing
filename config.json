@@ -1,0 +1,46 @@
+{
+  "agentId": "ag_eris",
+  "folderName": "05_eris_cm_redes",
+  "learnedKnowledge": [
+    "Espacio para integrar el módulo de Eris creado por Lucas: búsqueda de videos/fotos de obras, edición y publicación en redes."
+  ],
+  "customBotEntry": "agente.js",
+  "systemPromptFile": "PROMPT_ENTRENAMIENTO.md",
+  "role": "Dirección Creativa, Video & Redes Sociales",
+  "name": "Eris Boreas Greyrat",
+  "lastUpdated": "29/10/2026, 03:05:13",
+  "watchPaths": [
+    "c:\\Users\\aleh3\\Desktop\\PROYECTO ELECTRONICAT\\agentes\\05_eris_cm_redes\\recursos_y_videos",
+    "c:\\Users\\aleh3\\Desktop\\PROYECTO ELECTRONICAT\\media_taller"
+  ],
+  "alwaysOn24x7": true,
+  "sector": "ventas",
+  "skills": [
+    {
+      "id": "eris",
+      "name": "Dirección Creativa & Storytelling Emocional",
+      "desc": "Guiones de impacto sin engagement-bait, clonación de voz y Remotion 3D."
+    },
+    {
+      "id": "folder-video-creator",
+      "name": "Creador de Video Automatizado",
+      "desc": "Inspección de B-rolls, fotos de taller y renderizado de clips para TikTok/Reels."
+    },
+    {
+      "id": "wshobson/agents@brand-landingpage",
+      "name": "Diseño de Identidad y Preventa",
+      "desc": "Campañas de preventa de tableros deportivos en Catamarca y NOA."
+    }
+  ],
+  "peers": [
+    "ag_linia_pursena",
+    "ag_roxy",
+    "ag_ruijerd"
+  ],
+  "responsibilities": [
+    "Producir contenido audiovisual del taller (reparaciones reales, luminarias en Citi Pádel y Defensores).",
+    "Empujar la preventa de los 10 tableros de 24 segundos.",
+    "Canalizar mensajes y comentarios de clubes hacia Linia & Pursena para cerrar cotizaciones."
+  ],
+  "skillsFile": "SKILLS.md"
+}

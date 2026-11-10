@@ -1,0 +1,11 @@
+{
+  "name": "agente-eris-marketing",
+  "version": "1.0.0",
+  "description": "Micro-agente Eris Boreas: Marketing, Redes Sociales, Video Reels y Campañas Comerciales",
+  "main": "agente.js",
+  "scripts": {
+    "start": "node agente.js"
+  },
+  "author": "Ale & Lucas - Electronicat",
+  "license": "ISC"
+}
